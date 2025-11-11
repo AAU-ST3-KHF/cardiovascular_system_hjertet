@@ -15,6 +15,11 @@ To use this template:
    git clone https://github.com/you/{{REPO_NAME}}.git
    cd {{REPO_NAME}}
 
+
+## Læsevejledning:
+
+QHP 2nd Edition: Sec 5.4, 5.5, 5.6
+
 ## Forberedelse
 
 Til hver lektion skal man forvente følgende:
