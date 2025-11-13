@@ -1,12 +1,12 @@
 [project]
-name = "cardiovascular-system-blood"
+name = "cardiovascular-system-heart"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "h5py>=3.15.1",
-    "heartpy>=1.2.7",
+    "h5py",
+    "heartpy",
     "ipywidgets",
     "matplotlib",
     "nbformat",
@@ -14,8 +14,8 @@ dependencies = [
     "pandas",
     "plotly",
     "pyside6",
-    "setuptools>=80.9.0",
-    "wfdb>=4.3.0",
+    "setuptools",
+    "wfdb",
 ]
 
 [dependency-groups]
