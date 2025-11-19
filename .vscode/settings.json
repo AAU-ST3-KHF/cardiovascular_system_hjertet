@@ -1,0 +1,26 @@
+{
+    // --- Python setup ---
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.terminal.activateEnvironment": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    // --- Jupyter setup ---
+    "jupyter.askForKernelRestart": false,
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.kernelPickerType": "onlyAvailable",
+    // --- Editor preferences ---
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.rulers": [
+        80,
+        100
+    ],
+    "files.trimTrailingWhitespace": true,
+    // --- General workspace behavior ---
+    "python.languageServer": "Default",
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "${workspaceFolder}"
+    },
+    "jupyter.interactiveWindow.creationMode": "perFile"
+}

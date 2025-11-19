@@ -1,0 +1,11 @@
+Phase,time,P_LV,P_AO,V_LV,stress_AO
+End-diastole (filling),0,10,80,120,33
+Atrial contraction,0.1,15,80,130,33
+Isovolumetric contraction,0.13,30,80,130,33
+Early ejection,0.16,80,85,100,35
+Peak systole,0.3,120,120,70,49
+Late ejection,0.4,100,115,60,47
+Isovolumetric relaxation,0.5,60,100,60,41
+Early diastole,0.55,20,90,80,37
+Mid-diastole,0.7,10,85,100,35
+End-diastole (next cycle),1,10,80,120,33
