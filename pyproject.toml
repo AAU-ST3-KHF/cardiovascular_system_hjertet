@@ -5,19 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "h5py",
-    "heartpy",
     "ipywidgets",
-    "jupyter>=1.1.1",
+    "jupyter",
     "matplotlib",
-    "nbformat",
     "numpy",
     "pandas",
-    "plotly",
-    "pyside6",
-    "scikit-learn>=1.7.2",
-    "setuptools",
-    "wfdb",
 ]
 
 [dependency-groups]
@@ -25,3 +17,6 @@ dev = [
     "ipykernel",
     "uv",
 ]
+
+[tool.uv]
+link-mode = "copy"
