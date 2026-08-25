@@ -2,7 +2,7 @@
 
 ---
 
-## ​ Usage
+## ​ Installation
 
 To use this repository:
 1. Ensure you have uv installed,
@@ -11,8 +11,8 @@ To use this repository:
   - MacOS: `brew install uv`
 2. Clone it locally:
    ```bash
-   git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_hjertet.git
-   cd cardiovascular_system_hjertet
+   git clone https://github.com/AAU-ST3-KHF/hjertet.git
+   cd hjertet
    uv sync
    ```
 3. If changes occured, i.e. new version of python to your own: `uv sync`

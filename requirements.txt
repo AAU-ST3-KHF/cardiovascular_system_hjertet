@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+ipykernel
+faker
+jupyterlab
+jupyterlab_rise
+mermaid-py
+pooch
+scikit-image
